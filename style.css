@@ -3,7 +3,13 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+h3{
+    text-align: center;
+    color: grey;
+    margin: 10px;
+    /* color: white; */
+    /* background-color: rgb(118, 253, 208); */
+}
 #addBall-btn{
     height: 30px;
     width: 160px;
